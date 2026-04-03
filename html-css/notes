@@ -1,0 +1,25 @@
+Element is just a generic term we use to describe anything that we can use on the webpage.
+Syntax are rules on how coding language should be written.
+attribute name tells us what we are modifying and the attrubute value tells us what we are modifying it to.
+target attribute determines whether the attribute value opens in the current page in regards to anchor tag attribute. if no target is set i.e <a href="https://www.youtube.com/"> Link to youtube</a> it will open in the current page. and if target is set to _blank the link element will open in a new tab.
+href attribute modifies where the link goes and the target attribute modifies whether this link opens in a new tab or in the current page. and they only work on the link element.
+CSS Selector e.g  button {}
+CSS Property e.g  backgroung-color: red;
+CSS Value e.g red
+px - pixels
+class attribute - lets us label html elements. to target the class attribute in css we start with a dot then the class name.
+in CSS space is called margin.
+trick to getting round buttons you have to set the border radius to half the height or width, whichever is lowest.
+
+
+
+
+CSS Box Model: Margin spacing on the outside of an element(e.g button). Can be added on all 4 directions i.e top right bottom left. Padding spancing on the inside of an element(e.g button) also set on all 4 directions. Border is the space between the margin and padding.
+
+CSS Box Model determines how much space an element takes up on the page and how far it is away from other elements. Example:    padding: 10px 16px 10px 16px; (good thing about padding is if text is longer it wont overflow but will fit in the viewport hence a button resizes with text as compared to height and width which does not). 
+
+paragraph tag <p> by default, come with margin at the top and bottom.
+
+The selector that is more specific is going to have a higher priority.
+
+span text element lets us modify a specific part of the text without affecting the whole thing and is the most flexible making it possible to style it in any way we want.
