@@ -1,0 +1,35 @@
+Rows are horizontal arrangements of data, while columns are vertical arrangements, and together they form the grid structure of tables or spreadsheets.
+Definition and Orientation
+Row: A row is a horizontal series of cells in a table, spreadsheet, or database, running from left to right. Each row typically represents a single record or item, such as a client, product, or task. In spreadsheets like Excel, rows are identified by numbers along the left side of the sheet. 
+
+Column: A column is a vertical series of cells, running from top to bottom, representing a specific attribute or category of the data, such as "Name," "Department," or "Joining Date". Columns are labeled with letters at the top of the spreadsheet. 
+
+
+
+Interaction and Cells
+The intersection of a row and a column forms a cell, which holds individual data points. Each cell can be uniquely identified by combining its column letter and row number (e.g., B3 in Excel),. 
+
+Rows provide the "who" or "what" of the data, while columns provide the "what kind" or context, giving depth and meaning to the table. 
+
+
+
+
+Operations in Spreadsheets
+Selection: Entire rows can be selected using SHIFT + Spacebar, and entire columns using CTRL + Spacebar. 
+
+Insertion/Deletion: New rows are inserted above a selected row, and new columns to the left of a selected column. Deletion works similarly. 
+
+Formatting: Row height and column width can be adjusted independently, and text alignment or borders can be applied to entire rows or columns. 
+
+Sorting and Lookup: Data is often sorted by columns, which rearranges rows while keeping columns fixed. Functions like VLOOKUP and HLOOKUP are used depending on whether data is arranged vertically or horizontally. 
+
+
+
+
+Practical Examples
+In a customer database, each row might represent a customer, while columns include attributes like "Email," "Phone Number," and "Address". 
+
+In task management, rows represent individual tasks, and columns provide details such as deadlines, assignees, or status. 
+
+
+Understanding rows and columns is fundamental for organizing, analyzing, and manipulating data efficiently in tables, spreadsheets, and databases.
