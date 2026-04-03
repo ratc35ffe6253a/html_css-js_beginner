@@ -1,0 +1,46 @@
+p {
+  font-family: Roboto, Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.search-bar {
+  display: block;
+}
+
+.video-preview {
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 15px;
+}
+
+.thumbnail-row {
+  margin-bottom: 12px;
+}
+
+.thumbnail {
+  width: 300px;
+  display: block;
+}
+
+.channel-picture {
+  display: inline-block;
+  width: 50px;
+  vertical-align: top;
+}
+
+.profile-picture {
+  width: 100%;
+  border-radius: 50px;
+}
+
+.video-info {
+  display: inline-block;
+  width: 200px;
+}
+
+.video-title {
+  font-size: 14px;
+  font-weight: 500;
+}

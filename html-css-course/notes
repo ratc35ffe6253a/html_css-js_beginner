@@ -7,3 +7,6 @@ div element: stands for division. It is just a box. It is a block element by def
 
 
 
+When we set the width of an image the height will also adjust so that the image will have the same dimensions. The image element has it's own properties that are specific to an image e.g 
+1. object-fit with a value of cover tells the image to cover the width and height set. and when implemented with a value of contain the entire image is going to shrink until it is contained in the set width and height.
+2 object-position can be used to adjust the position of the image a user wants seen by setting a value such as top, or bottom and its center by default in the case 
