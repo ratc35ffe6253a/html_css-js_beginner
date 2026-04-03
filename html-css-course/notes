@@ -1,0 +1,6 @@
+In html there are 3 types of elements i.e 
+1. Block element: it takes up the entire line. A paragragh by defaule is a block element. They take up the entire line in their container rather than on the page.
+2. Inline-block element: only takes up as much space as it needs to; so another element can appear beside them. e.g image element and input element.
+3. Inline element: are basicaly just text elements. They appear within a line of text. e.g strong element or span element.
+Most interesting of the three are the block element and the inline-block element; because they determine how the elements are displayed on the page. Whether beside each other or above and below. In addition we can use the CSS property called display to easily switch between block and inline-block.
+div element: stands for division. It is just a box. It is a block element by default.
