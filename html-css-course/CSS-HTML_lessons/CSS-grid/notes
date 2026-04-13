@@ -1,0 +1,7 @@
+A grid is a layout that has rows and columns.
+Set a display property to grid i.e display: grid; then set number of columns grid must have e.g (grid-template-columns: 100px 100px 200px;) where the columns will have width in regards to the selected quantity(100px).
+When a div is placed inside a grid it only takes the entire column instead of the entire line even though they are block elements by default.
+The number of values passed in gride-template-column determines the number of columns and the value itself determines the width of the column.
+Whenever we have more elements than we have columns, it will wrap around and create new rows.
+fr is a special value in GRID that stands for free space meaning it takes up the amount of space remaining on the grid.
+1fr tells the columns to take the remaining amount of space and the number in front of it telss us relatively how much of the remaining space this column gets.

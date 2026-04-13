@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Lesson 13 Exercise</title>
+
+  <style>
+    .flexbox {
+      display: flex;
+      flex-direction: row;
+      height: 50px;
+    }
+
+    .column1 {
+      background-color: lightpink;
+      width: 100px;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .item1 {
+      background-color: black;
+      color: white;
+    }
+
+    .column2 {
+      background-color: lightblue;
+      width: 200px;
+    }
+
+    .flexbox13b {
+      display: flex;
+      flex-direction: row;
+      height: 50px;
+    }
+
+    .column1-13b {
+      background-color: lightpink;
+      width: 100px;
+    }
+
+    .column2-13b {
+      background-color: lightblue;
+      width: 200px;
+    }
+
+    .column2i-13b {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    }
+
+    .row2-13b {
+      background-color: black;
+      color: white;
+    }
+  </style>
+</head>
+<body style="margin-bottom: 1000px;">
+  <div class="flexbox">
+    <div class="column1">
+      <div class="item1">item1</div>
+    </div>
+    <div class="column2"></div>
+  </div>
+
+  <br><br><br><br>
+
+  <div class="flexbox13b">
+    <div class="column1-13b"></div>
+
+    <div class="column2-13b">
+      <div class="row1-13b">
+        row1
+      </div>
+      <div class="column2i-13b">
+        <div class="row2-13b">
+          row2
+        </div>
+        <div class="row2-13b">
+          row2
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,3 @@
+flex direction row aligns the div elements horizontally.
+Inside a flexbox div don't behave like block elements anymore, they behave more like inline block elements taking up as much horizontal space as they need to.
+In display flex elements take their width along with them if they move around.

@@ -12,3 +12,8 @@ When we set the width of an image the height will also adjust so that the image 
 2 object-position can be used to adjust the position of the image a user wants seen by setting a value such as top, or bottom and its center by default in the case 
 
 line-height in css changes the spaces inbetween the text.
+
+shadow on the inside (box-shadow: inset horizontal position(1px leftandright) vertical position(2px topandbottom) blur(3px) shadow color(rgba(0, 0, 0, 0.05)))
+
+The flex-shrink: 0; flexbox property stops certain elements from shrinking.
+Setting a width: 0; on a searchbar eliminates it's default width making it to shrink as much as possible.
